@@ -64,6 +64,7 @@ section {
     border-radius: 7px;
     color: lightgrey;
     font-size: 20px;
+    transition: all 0.2s ease;
 }
 
 .intro button:hover, .match button:hover {
